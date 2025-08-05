@@ -1,0 +1,57 @@
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 13:36:23"}
+{"level":"info","msg":"| 200 |    29.14125ms |       127.0.0.1 | GET | /v1/book-center/user/2 |","time":"2025-08-01 13:36:30"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 13:36:50"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 13:36:50"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 14:17:45"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 14:35:41"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 14:35:41"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 14:35:41"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 14:36:01"}
+{"level":"info","msg":"| 200 |   25.966458ms |       127.0.0.1 | GET | /v1/book-center/user/2 |","time":"2025-08-01 14:36:07"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 14:36:39"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 14:36:39"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 14:36:39"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 14:36:45"}
+{"level":"info","msg":"| 200 |    4.554542ms |       127.0.0.1 | GET | /v1/book-center/user/2 |","time":"2025-08-01 14:36:48"}
+{"level":"info","msg":"| 200 |   21.258583ms |       127.0.0.1 | GET | /v1/book-center/user/1 |","time":"2025-08-01 14:36:56"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 14:37:31"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 14:37:31"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 14:37:35"}
+{"level":"info","msg":"| 200 |   19.575584ms |       127.0.0.1 | GET | /v1/book-center/user/3 |","time":"2025-08-01 14:37:42"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 14:38:26"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 14:38:26"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 14:38:26"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:29:18"}
+{"level":"info","msg":"| 200 |   58.580792ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:29:33"}
+{"level":"info","msg":"| 200 |   12.336875ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:36:41"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:37:29"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:37:29"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:37:29"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:37:33"}
+{"level":"info","msg":"| 200 |   17.674875ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:37:40"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:38:23"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:38:23"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:38:23"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:38:29"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:38:32"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:38:32"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:38:32"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:38:33"}
+{"level":"info","msg":"| 200 |     7.02125ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:38:40"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:39:31"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:39:31"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:39:31"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:39:33"}
+{"level":"info","msg":"| 200 |   26.952583ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:39:37"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:41:51"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:41:51"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:41:56"}
+{"level":"info","msg":"| 200 |   25.031542ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:41:58"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:45:22"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:45:22"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:45:22"}
+{"level":"info","msg":"redis ping: PONG","time":"2025-08-01 15:45:24"}
+{"level":"info","msg":"| 200 |       40.42ms |       127.0.0.1 | GET | /v1/book-center/book/1 |","time":"2025-08-01 15:45:33"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-01 15:52:58"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-01 15:52:58"}
+{"level":"info","msg":"server exiting...","time":"2025-08-01 15:52:58"}

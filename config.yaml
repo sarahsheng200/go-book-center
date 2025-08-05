@@ -1,0 +1,38 @@
+server:
+  port: 8083
+  mode: 'release'
+  useRedis: true
+  UseMysql: true
+  urlPrefix: '/v1/book-center'
+
+
+mysql:
+  username: 'root'
+  password: '00000000'
+  path: '127.0.0.1:3306'
+  database: 'gin-test'
+  config: 'charset=utf8&parseTime=True&loc=Local'
+  isLogMode: true
+  singularTable: true
+
+log:
+  isDebug: false
+  maxAge: 7
+  fileName: 'server.log'
+  dirName: 'data/logs'
+
+redis:
+  Addr: '127.0.0.1:6379'
+  password: '123456'
+  db: 0
+
+session:
+  storeKey: 'USER_SECRET'
+  name: 'SESSION_NME'
+  sessionKey: 'SESSION_ID'
+  size: 10
+  # 7 * 86400 7天
+  maxAge: 604800
+  path: '/'
+  domain: ''
+  httpOnly: true
