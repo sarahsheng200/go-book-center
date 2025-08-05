@@ -35,6 +35,7 @@ func CacheUserDecorator(h gin.HandlerFunc, porm string, readKeyPattern string, u
 		}
 		log.Printf("cacheUserDecorator: redis get data: %v", data)
 		json.Unmarshal([]byte(data), &user)
+
 		c.JSON(http.StatusOK, gin.H{"msg": "success from redis", "data": user})
 	}
 }
