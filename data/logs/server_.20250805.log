@@ -21,3 +21,6 @@
 {"level":"info","msg":"server exiting...","time":"2025-08-05 10:12:28"}
 {"level":"error","msg":"Logger: close file error:%!(EXTRA *errors.errorString=invalid argument)","time":"2025-08-05 10:27:01"}
 {"level":"info","msg":"redis ping: PONG","time":"2025-08-05 10:27:01"}
+{"level":"info","msg":"shutdown server...","time":"2025-08-05 10:56:25"}
+{"level":"fatal","msg":"listen error: http: Server closed\n","time":"2025-08-05 10:56:25"}
+{"level":"info","msg":"server exiting...","time":"2025-08-05 10:56:25"}
